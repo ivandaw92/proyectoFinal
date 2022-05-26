@@ -1,4 +1,3 @@
-from asyncio.windows_events import NULL
 from django.http import JsonResponse
 from django.shortcuts import render, redirect
 from estrenos.scrap import descargarIndex, descargarPlataforma, datosPeli, proximosEstrenos
