@@ -1,0 +1,5 @@
+Pillow==5.0.0
+django==4.0
+django-ckeditor=5.4.0
+python==3.10.4
+bs4==0.0.1
